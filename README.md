@@ -3,7 +3,7 @@
 Hey there, content connoisseurs and tech aficionados! Welcome to **Zara** – the groundbreaking WordPress plugin that transforms the old, mundane menu navigation into an interactive quest for the perfect content. Forget aimlessly clicking around; with Zara, you simply answer a few fun questions, and voilà – your content is served on a silver platter!
 
 <div align="center">
-  <img src="documentation/images/bannerhizara.png" alt="screenshot" width="400"/>
+  <img src="bannerhizara.png" alt="screenshot" width="400"/>
 </div>
 
 ---
